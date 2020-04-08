@@ -6,4 +6,8 @@
 
 **Domaine(s)** : Manga / Animé
 
+**En lien** :
+
++ [BNHA](../B/bnha.md) : nom japonais
+
 --------------------------------------------
