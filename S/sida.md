@@ -6,4 +6,8 @@
 
 **Domaine(s)** : Sciences / Médecine
 
+**En lien** :
+
++ [VIH](../V/vih.md) : virus de base
+
 ----------------------------------------
