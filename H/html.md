@@ -6,4 +6,4 @@
 
 **Domaine(s)** : Informatique / Programmation / Web
 
-Abréviation de "HyperText Markup Language".
+---------------------------------------------

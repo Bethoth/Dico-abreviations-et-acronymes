@@ -6,6 +6,4 @@
 
 **Domaine(s)** : Sécurité / Informatique
 
-Abréviation de "Mot De Passe".
-
 ----------------------------------------
