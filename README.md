@@ -1,1 +1,1 @@
-"# Dico-abbreviations" 
+# Dico-abbreviations
