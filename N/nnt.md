@@ -8,6 +8,6 @@
 
 **En lien** :
 
-+ [../S/sds.md](SDS) : nom romanisé
++ [SDS](../S/sds.md) : nom romanisé
 
 --------------------------------------------

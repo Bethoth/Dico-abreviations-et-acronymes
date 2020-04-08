@@ -8,6 +8,6 @@
 
 **En lien** :
 
-+ [../N/nnt.md](NNT) : nom japonais
++ [NNT](../N/nnt.md) : nom japonais
 
 ----------------------------------------------
