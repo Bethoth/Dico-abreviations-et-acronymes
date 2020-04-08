@@ -2,7 +2,7 @@
 
 ---------------------------------------
 
-## (1) Mot de passe
+## (1) Mot De Passe
 
 **Domaine(s)** : Sécurité / Informatique
 
