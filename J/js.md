@@ -6,4 +6,6 @@
 
 **Domaine(s)** : Informatique / Programmation / Web
 
-AbrÃ©viation de "JavaScript" : langage de programmation web.
+Abréviation de "JavaScript" : langage de programmation web.
+
+---------------------------------------------------
