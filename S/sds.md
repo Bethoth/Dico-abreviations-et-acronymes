@@ -6,4 +6,8 @@
 
 **Domaine(s)** : Animé / Manga
 
+**En lien** :
+
++ [../N/nnt.md](NNT) : nom japonais
+
 ----------------------------------------------
