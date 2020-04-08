@@ -2,7 +2,7 @@
 
 --------------------------------------------------
 
-## (1)
+## (1) Javascript
 
 **Domaine(s)** : Informatique / Programmation / Web
 

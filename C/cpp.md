@@ -2,7 +2,7 @@
 
 --------------------------------------------
 
-## (1)
+## (1) C++
 
 **Domaine(s)** : Informatique / Programmation / Logiciel
 
