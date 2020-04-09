@@ -6,4 +6,8 @@
 
 **Domaine(s)** : Physique
 
+**En lien** :
+
++ [UDPPC](../U/udppc.md) : union qui crée ce bulletin
+
 -------------------------------------------

@@ -6,4 +6,8 @@
 
 **Domaine(s)** : Physique / Chimie / Ã‰ducation
 
+**En lien** :
+
++ [BUP](../B/bup.md) : bulletin qu'ils créent et envoient
+
 ------------------------------------------
