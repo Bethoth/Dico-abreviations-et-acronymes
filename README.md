@@ -1,6 +1,6 @@
-# Dico-abbreviations
+# Dico des abréviations et acronymes
 
-Ceci est un repo à usage personnel. Il a pour but de recenser toutes les abbréviations que je croise pour m'en rappeler.
+Ceci est un repo à usage personnel, principalement. Il a pour but de recenser toutes les abréviations et acronymes que je croise pour m'en rappeler.
 
 Les contributions sont évidemment les bienvenues.
 
