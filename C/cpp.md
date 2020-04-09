@@ -6,8 +6,8 @@
 
 **Domaine(s)** : Informatique / Programmation / Logiciel
 
-**Remarque(s) :**
+**Remarque(s)** :
 
-+ L'abrÃ©viation contient des 'P' car le nom du langage se lit "C Plus Plus".
++ L'abréviation contient des 'P' car le nom du langage se lit "C Plus Plus".
 
 ---------------------------------------------

@@ -2,9 +2,9 @@
 
 --------------------------------------
 
-## (1) Syndrome d'ImmunoDÃ©ficience Acquise
+## (1) Syndrome d'ImmunoDéficience Acquise
 
-**Domaine(s)** : Sciences / MÃ©decine
+**Domaine(s)** : Sciences / Médecine
 
 **En lien** :
 
