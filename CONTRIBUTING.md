@@ -16,12 +16,12 @@ Chaque fichier doit être nommé ainsi : `abréviation.md` (par exemple, pour l'
 
     **Domaine(s)** : Domaine1 / Domaine2 / etc
 
-    **En lien** :
+    **En lien** : // Optionnel
 
     + [abréviation ou acronyme en majuscule](../Lettre/NomDuFichier.md) : description courte du lien
     + etc
 
-    **Remarque(s)** :
+    **Remarque(s)** : // Optionnel
     + Remarque1
     + Remarque2
     + etc
