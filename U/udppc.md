@@ -8,6 +8,6 @@
 
 **En lien** :
 
-+ [BUP](../B/bup.md) : bulletin qu'ils créent et envoient
++ [BUP](../B/bup.md) : bulletin qu'ils créent et publient
 
 ------------------------------------------
