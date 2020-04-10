@@ -53,3 +53,13 @@ Chaque fichier doit être nommé ainsi : `abréviation.md` (par exemple, pour l'
     ----------------------------------------
 
 *Contenu du fichier `S/sida.md`.*
+
+## Pour ceux qui ne voudraient ou ne sauraient pas gérer la création des fichiers :
+
+Il y a, dans l'onglet 'Projets' un projet permettant à chacun d'ajouter toutes les abréviations qu'il souhaite. Pour contribuer ici, je vous demande de donner :
+
++ L'abréviation
++ Les mots correspondants
++ Les domaines
+
+Pour ce qui est des liens, vous pouvez également en proposer.
