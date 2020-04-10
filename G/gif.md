@@ -2,7 +2,7 @@
 
 ---------------------------------------
 
-## Graphics Interchange Format
+## (1) Graphics Interchange Format
 
 **Domaine(s)** : Informatique / Infographie
 
