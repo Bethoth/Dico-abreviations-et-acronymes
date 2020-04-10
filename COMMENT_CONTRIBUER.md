@@ -56,7 +56,7 @@ Chaque fichier doit être nommé ainsi : `abréviation.md` (par exemple, pour l'
 
 ## Pour ceux qui ne voudraient ou ne sauraient pas gérer la création des fichiers :
 
-Il y a, dans l'onglet 'Projets' un projet permettant à chacun d'ajouter toutes les abréviations qu'il souhaite. Pour contribuer ici, je vous demande de donner :
+Il y a, dans l'onglet 'Projets' un [projet](https://github.com/Bethoth/Dico-abreviations-et-acronymes/projects/1) permettant à chacun d'ajouter toutes les abréviations qu'il souhaite. Pour contribuer ici, je vous demande de donner :
 
 + L'abréviation
 + Les mots correspondants
