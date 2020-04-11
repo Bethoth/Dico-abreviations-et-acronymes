@@ -4,12 +4,12 @@
 
 ## (1) League Of Legends
 
-Domaine(s) : Jeu vidéo
+**Domaine(s)** : Jeu vidéo
 
 --------------------
 
 ## (2) Laughing Out Loud
 
-Domaine(s) : Expression
+**Domaine(s)** : Expression
 
 --------------------
