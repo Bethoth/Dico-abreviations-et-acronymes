@@ -2,8 +2,8 @@
 
 --------------------
 
-## Maladie Sexuellement Transmissible
+## (1) Maladie Sexuellement Transmissible
 
-Domaine(s) : Médecine
+**Domaine(s)** : Médecine
 
 --------------------
