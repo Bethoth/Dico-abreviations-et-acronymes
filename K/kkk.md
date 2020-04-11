@@ -4,6 +4,6 @@
 
 ## (1) Ku Klux Klan
 
-**Domaine(s)** : Organisation secrète
+**Domaine(s)** : Organisation
 
 ----------------------------------------
