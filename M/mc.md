@@ -7,3 +7,7 @@
 **Domaine(s)** : Chimie
 
 --------------------
+
+## (2) Minecraft
+
+**Domaine(s)** : Jeux vidéos
