@@ -11,3 +11,5 @@
 ## (2) Minecraft
 
 **Domaine(s)** : Jeu vidéo
+
+--------------------

@@ -1,6 +1,6 @@
 # VIH
 
---------------------------------------
+--------------------
 
 ## (1) Virus de l'Immunodéficience Humaine
 
@@ -9,3 +9,5 @@
 **En lien** :
 
 + [SIDA](../S/sida.md) : dernier stade de l'infection
+
+--------------------

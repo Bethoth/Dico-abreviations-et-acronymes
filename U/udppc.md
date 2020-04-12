@@ -1,6 +1,6 @@
 # UDPPC
 
-------------------------------------
+--------------------
 
 ## (1) Union Des Professeurs de Physique-Chimie
 
@@ -10,4 +10,4 @@
 
 + [BUP](../B/bup.md) : bulletin qu'ils créent et publient
 
-------------------------------------------
+--------------------
