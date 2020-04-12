@@ -2,7 +2,7 @@
 
 --------------------
 
-## (1) HElium
+## (1) HÉlium
 
 **Domaine(s)** : Chimie
 

@@ -14,6 +14,6 @@
 
 ## (2) Vanadium
 
-Domaine(s) : Chimie
+**Domaine(s)** : Chimie
 
 --------------------
