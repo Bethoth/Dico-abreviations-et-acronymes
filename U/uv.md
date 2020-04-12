@@ -2,7 +2,7 @@
 
 --------------------
 
-## (1) Ultra Violet
+## (1) UltraViolet
 
 **Domaine(s)** : Physique
 
