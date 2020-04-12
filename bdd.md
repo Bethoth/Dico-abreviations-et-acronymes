@@ -3,7 +3,7 @@ Accéder à la lettre : [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) 
 # A
 
 + [A : Ampère](/A/a.md)
-+ [AC : ACtinium](/A/ac.md)
++ [AC : ACtinium / Assassin's Creed](/A/ac.md)
 + [AG : ArGent](/A/ag.md)
 + [AL : ALuminium](/A/al.md)
 + [AM : AMéricium](/A/am.md)
