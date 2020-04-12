@@ -2,7 +2,7 @@
 
 ---------------------------------------
 
-## (1) Mort de Rire
+## (1) Mort De Rire
 
 **Domaine(s)** : Expression
 
