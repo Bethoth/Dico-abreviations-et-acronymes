@@ -4,6 +4,6 @@
 
 ## (1) Massachusetts Institute of Technology
 
-**Domaine(s)** : Education
+**Domaine(s)** : Éducation
 
 --------------------
