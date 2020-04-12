@@ -236,3 +236,18 @@
 + [SR : StRontium](/S/sr.md)
 
 --------------------
+
+# T
+
++ [TA : TAntale](/T/ta.md)
++ [TB : TerBium](/T/tb.md)
++ [TC : TeChnétium](/T/tc.md)
++ [TE : TEllure](/T/te.md)
++ [TH : THorium](/T/th.md)
++ [TI : TItane](/T/ti.md)
++ [TL : ThaLlium](/T/tl.md)
++ [TM : ThuliuM](/T/tm.md)
++ [TS : TenneSse](/T/ts.md)
++ [TVA : Taxe sur la Valeur Ajoutée](/T/tva.md)
+
+--------------------
