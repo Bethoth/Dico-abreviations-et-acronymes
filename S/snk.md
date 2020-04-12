@@ -6,4 +6,8 @@
 
 **Domaine(s)** : Manga / Animé
 
+En lien :
+
++ [AOT](../A/aot.md) : nom anglais
+
 --------------------
