@@ -66,6 +66,8 @@ Une fois votre nouveau fichier terminé, il faut le recenser dans le fichier [bd
 4. Vous déterminez où placer votre entrée, dans l'ordre alphabétique. Ici, "JFK" sera avant "JS".
 5. Vous entrez ceci sur une nouvelle ligne : `+ [JFK : John Fitz Kennedy](/J/jfk.md)`.
 
+*Note : dans le cas où votre abréviation / acronyme existerait déjà et aurait donc déjà son propre fichier, ajoutez simplement "/ Autre Abréviation".*
+
 ## Pour ceux qui ne voudraient ou ne sauraient pas gérer la création des fichiers :
 
 Il y a, dans l'onglet 'Projets' un [projet](https://github.com/Bethoth/Dico-abreviations-et-acronymes/projects/1) permettant à chacun d'ajouter toutes les abréviations qu'il souhaite. Pour contribuer ici, je vous demande de donner :
