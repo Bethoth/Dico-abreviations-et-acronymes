@@ -55,3 +55,15 @@
 + [DNL : Discipline Non-Linguistique](/D/dnl.md)
 + [DS : DarmStadtium](/D/ds.md)
 + [DY : DYsprosium](/D/dy.md)
+
+--------------------
+
+# E
+
++ [EFL : Éditions Francis Lefebvre / European Football League / English Football League / Enlightenment Foundation Libraries](/E/efl.md)
++ [EMC : Éducation Morale et Civique](/E/emc.md)
++ [ER : ERbium](/E/er.md)
++ [ES : EinSteinium](/E/es.md)
++ [EU : EUropium](/E/eu.md)
+
+--------------------
