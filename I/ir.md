@@ -8,7 +8,7 @@
 
 --------------------
 
-## (2) Infra Rouge
+## (2) InfraRouge
 
 **Domaine(s)** : Physique
 
