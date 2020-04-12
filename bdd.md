@@ -91,6 +91,7 @@ Accéder à la lettre : [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) 
 + [FL : FLérovium](/F/fl.md)
 + [FM : FerMium](/F/fm.md)
 + [FR : FRancium](/F/fr.md)
++ [FTN : Firme TransNationale](/F/ftn.md)
 
 --------------------
 
@@ -207,6 +208,7 @@ Accéder à la lettre : [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) 
 + [PB : PlomB](/P/pb.md)
 + [PD : PallaDium](/P/pd.md)
 + [PDG : Président Directeur Général](/P/pdg.md)
++ [PIB : Produit Intérieur Brut](/P/pib.md)
 + [PM : ProMéthium](/P/pm.md)
 + [PNG : Portable Network Graphics](/P/png.md)
 + [PO : POlonium](/P/po.md)
