@@ -205,3 +205,17 @@
 + [QCM : Questionnaire à Choix Multiples](/Q/qcm.md)
 
 --------------------
+
+# R
+
++ [RA : RAdium](R/ra.md)
++ [RB : RuBidium](R/rb.md)
++ [RE : RhÉnium](R/re.md)
++ [RF : RutherFordium](R/rf.md)
++ [RG : RoentGenium](R/rg.md)
++ [RH : RHodium](R/rh.md)
++ [RMN : Résonance Magnétique Nucléaire](R/rmn.md)
++ [RN : RadoN](R/rn.md)
++ [RU : RUthénium](R/ru.md)
+
+--------------------
