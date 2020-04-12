@@ -4,6 +4,6 @@
 
 ## (1) Message Privé
 
-**Domaine(s)** : Résaux sociaux
+**Domaine(s)** : Réseaux sociaux
 
 --------------------
