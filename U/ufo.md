@@ -6,4 +6,8 @@
 
 **Domaine(s)** : Astronomie / Populaire
 
+**En lien** :
+
++ [OVNI](../O/ovni.md) : acronyme français
+
 --------------------
