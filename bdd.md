@@ -247,6 +247,7 @@ Accéder à la lettre : [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) 
 + [PNG : Portable Network Graphics](/P/png.md)
 + [PO : POlonium](/P/po.md)
 + [PR : PRaséodyme](/P/pr.md)
++ [PSG : Paris Saint-Germain](/P/psg.md)
 + [PT : PlaTine](/P/pt.md)
 + [PU : PlUtonium](/P/pu.md)
 
