@@ -103,6 +103,7 @@ Accéder à la lettre : [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) 
 + [GIF : Graphics Interchange Format](/G/gif.md)
 + [GIGN : Groupe d'Intervention de la Gendarmerie Nationale](/G/gign.md)
 + [GPU : Graphics Processing Unit](/G/gpu.md)
++ [GTA : Grand Theft Auto](G/gta.md)
 
 --------------------
 
