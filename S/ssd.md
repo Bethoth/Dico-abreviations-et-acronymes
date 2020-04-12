@@ -2,7 +2,7 @@
 
 -----------------------------------------------
 
-## (1) solid-state drive
+## (1) Solid-State Drive
 
 **Domaine(s)** : Informatique
 
