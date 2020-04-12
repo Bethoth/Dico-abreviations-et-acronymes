@@ -259,3 +259,10 @@
 + [UNESCO : United Nations Educational, Scientific and Cultural Organization](/U/unesco.md)
 
 --------------------
+
+# V
+
++ [V : Volt / Vanadium](/V/v.md)
++ [VIH : Virus de l'Immunodéficience Humaine](/V/vih.md)
+
+--------------------
