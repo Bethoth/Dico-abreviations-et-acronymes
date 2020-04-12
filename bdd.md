@@ -33,7 +33,7 @@ Accéder à la lettre : [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) 
 
 + [C : Carbone](/C/c.md)
 + [CA : CAlcium / Chiffre d'Affaire](/C/ca.md)
-+ [CD : CaDmium](/C/cd.md)
++ [CD : CaDmium / Compact Disk](/C/cd.md)
 + [CE : CÉrium](/C/ce.md)
 + [CF : CaliFornium](/C/cf.md)
 + [CIA : Central Intelligence Agency](/C/cia.md)
