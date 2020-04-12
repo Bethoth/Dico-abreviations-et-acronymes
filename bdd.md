@@ -36,6 +36,7 @@ Accéder à la lettre : [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) 
 + [CD : CaDmium](/C/cd.md)
 + [CE : CÉrium](/C/ce.md)
 + [CF : CaliFornium](/C/cf.md)
++ [CIA : Central Intelligence Agency](/C/cia.md)
 + [CIO : Comité International Olympique / Centre d'Information et d'Orientation](/C/cio.md)
 + [CL : ChLore](/C/cl.md)
 + [CM : CuriuM](/C/cm.md)
@@ -54,7 +55,9 @@ Accéder à la lettre : [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) 
 # D
 
 + [DB : DuBnium](/D/db.md)
++ [DNB : Diplôme National du Brevet](/D/dnb.md)
 + [DNL : Discipline Non-Linguistique](/D/dnl.md)
++ [DNS : Domain Name Server](/D/dns.md)
 + [DS : DarmStadtium](/D/ds.md)
 + [DY : DYsprosium](/D/dy.md)
 
@@ -116,6 +119,7 @@ Accéder à la lettre : [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) 
 + [IMC : Indice de Masse Corporelle](/I/imc.md)
 + [IN : INdium](/I/in.md)
 + [IR : IRidium](/I/ir.md)
++ [IRL : In Real Life](/I/irl.md)
 + [IST : Infection Sexuellement Transmissible](/I/ist.md)
 
 --------------------
@@ -148,15 +152,18 @@ Accéder à la lettre : [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) 
 # M
 
 + [MC : MosCovium](/M/mc.md)
-+ [MC : MenDélévium](/M/md.md)
-+ [MC : Mot De Passe](/M/mdp.md)
-+ [MC : MaGnésium](/M/mg.md)
-+ [MC :  My Hero Academia](/M/mha.md)
-+ [MC : Mixed Martial Arts / les Mutuelles du Mans Assurances](/M/mma.md)
-+ [MC : MangaNèse](/M/mn.md)
-+ [MC : MOlybdène](/M/mo.md)
-+ [MC : Maladie Sexuellement Transmissible](/M/mst.md)
-+ [MC : MeiTnérium](/M/mt.md)
++ [MD : MenDélévium](/M/md.md)
++ [MDP : Mot De Passe](/M/mdp.md)
++ [MDR : Mort De Rire](/M/mdr.md)
++ [MG : MaGnésium](/M/mg.md)
++ [MHA : My Hero Academia](/M/mha.md)
++ [MIT : Massachusetts Institute of Technology](/M/mit.md)
++ [MMA : Mixed Martial Arts / les Mutuelles du Mans Assurances](/M/mma.md)
++ [MN : MangaNèse](/M/mn.md)
++ [MO : MOlybdène](/M/mo.md)
++ [MP : Message Privé](/M/mp.md)
++ [MST : Maladie Sexuellement Transmissible](/M/mst.md)
++ [MT : MeiTnérium](/M/mt.md)
 
 --------------------
 
@@ -195,6 +202,7 @@ Accéder à la lettre : [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) 
 + [PD : PallaDium](/P/pd.md)
 + [PDG : Président Directeur Général](/P/pdg.md)
 + [PM : ProMéthium](/P/pm.md)
++ [PNG : Portable Network Graphics](/P/png.md)
 + [PO : POlonium](/P/po.md)
 + [PR : PRaséodyme](/P/pr.md)
 + [PT : PlaTine](/P/pt.md)
@@ -236,6 +244,7 @@ Accéder à la lettre : [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) 
 + [SM : SaMarium](/S/sm.md)
 + [SN : StaNnum](/S/sn.md)
 + [SR : StRontium](/S/sr.md)
++ [SSD : Solid-State Drive](/S/ssd.md)
 
 --------------------
 
@@ -259,6 +268,7 @@ Accéder à la lettre : [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) 
 + [U : Uranium](/U/u.md)
 + [UDPPC : Union Des Professeurs de Physique-Chimie](/U/udppc.md)
 + [UNESCO : United Nations Educational, Scientific and Cultural Organization](/U/unesco.md)
++ [UV : UltraViolet](/U/uv.md)
 
 --------------------
 
