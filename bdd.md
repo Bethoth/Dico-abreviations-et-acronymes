@@ -85,3 +85,13 @@
 + [FR : FRancium](/F/fr.md)
 
 --------------------
+
+# G
+
++ [GA : GAllium](/G/ga.md)
++ [GD : GaDolinium](/G/gd.md)
++ [GE : GErmanium](/G/ge.md)
++ [GIF : Graphics Interchange Format](/G/gif.md)
++ [GIGN : Groupe d'Intervention de la Gendarmerie Nationale](/G/gign.md)
+
+--------------------
