@@ -32,7 +32,7 @@ Accéder à la lettre : [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) 
 # C
 
 + [C : Carbone](/C/c.md)
-+ [CA : CAlcium](/C/ca.md)
++ [CA : CAlcium / Chiffre d'Affaire](/C/ca.md)
 + [CD : CaDmium](/C/cd.md)
 + [CE : CÉrium](/C/ce.md)
 + [CF : CaliFornium](/C/cf.md)
