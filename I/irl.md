@@ -4,6 +4,6 @@
 
 ## (1) In Real Life
 
-**Domaine(s)** : Expressions
+**Domaine(s)** : Expression
 
 --------------------
