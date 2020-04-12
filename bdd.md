@@ -245,6 +245,7 @@ Accéder à la lettre : [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) 
 + [SIDA : Syndrome d'ImmunoDéficience Acquise](/S/sida.md)
 + [SM : SaMarium](/S/sm.md)
 + [SN : StaNnum](/S/sn.md)
++ [SNK : Shingeki No Kyojin](/S/snk.md)
 + [SR : StRontium](/S/sr.md)
 + [SSD : Solid-State Drive](/S/ssd.md)
 
