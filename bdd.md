@@ -46,3 +46,12 @@
 + [CS : CéSium](/C/cs.md)
 + [CSS : Cascading Style Sheets](/C/css.md)
 + [CU : CUivre](/C/cu.md)
+
+--------------------
+
+# D
+
++ [DB : DuBnium](/D/db.md)
++ [DNL : Discipline Non-Linguistique](/D/dnl.md)
++ [DS : DarmStadtium](/D/ds.md)
++ [DY : DYsprosium](/D/dy.md)
