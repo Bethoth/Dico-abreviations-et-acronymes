@@ -32,6 +32,8 @@ Accéder à la lettre : [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) 
 + [BR : BRome](/B/br.md)
 + [BUP : Bulletin de l'Union des Physiciens](/B/bup.md)
 
+*Retourner à l'[index](#index)*
+
 --------------------
 
 # C
@@ -57,6 +59,8 @@ Accéder à la lettre : [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) 
 + [CSS : Cascading Style Sheets](/C/css.md)
 + [CU : CUivre](/C/cu.md)
 
+*Retourner à l'[index](#index)*
+
 --------------------
 
 # D
@@ -68,6 +72,8 @@ Accéder à la lettre : [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) 
 + [DS : DarmStadtium](/D/ds.md)
 + [DY : DYsprosium](/D/dy.md)
 
+*Retourner à l'[index](#index)*
+
 --------------------
 
 # E
@@ -77,6 +83,8 @@ Accéder à la lettre : [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) 
 + [ER : ERbium](/E/er.md)
 + [ES : EinSteinium](/E/es.md)
 + [EU : EUropium](/E/eu.md)
+
+*Retourner à l'[index](#index)*
 
 --------------------
 
@@ -97,6 +105,8 @@ Accéder à la lettre : [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) 
 + [FR : FRancium](/F/fr.md)
 + [FTN : Firme TransNationale](/F/ftn.md)
 
+*Retourner à l'[index](#index)*
+
 --------------------
 
 # G
@@ -108,6 +118,8 @@ Accéder à la lettre : [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) 
 + [GIGN : Groupe d'Intervention de la Gendarmerie Nationale](/G/gign.md)
 + [GPU : Graphics Processing Unit](/G/gpu.md)
 + [GTA : Grand Theft Auto](G/gta.md)
+
+*Retourner à l'[index](#index)*
 
 --------------------
 
@@ -121,6 +133,8 @@ Accéder à la lettre : [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) 
 + [HS : HaSsium / Hors Service / Hors Sujet](/H/hs.md)
 + [HTML : HyperText Markup Language](/H/html.md)
 
+*Retourner à l'[index](#index)*
+
 --------------------
 
 # I
@@ -132,12 +146,16 @@ Accéder à la lettre : [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) 
 + [IRL : In Real Life](/I/irl.md)
 + [IST : Infection Sexuellement Transmissible](/I/ist.md)
 
+*Retourner à l'[index](#index)*
+
 --------------------
 
 # J
 
 + [JFK : John Fitzgerald Kennedy](/J/jfk.md)
 + [JS : JavaScript](/J/js.md)
+
+*Retourner à l'[index](#index)*
 
 --------------------
 
@@ -146,6 +164,8 @@ Accéder à la lettre : [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) 
 + [K : Kalium](/K/k.md)
 + [KKK : Ku Klux Klan](/K/kkk.md)
 + [KR : KRypton](/K/kr.md)
+
+*Retourner à l'[index](#index)*
 
 --------------------
 
@@ -158,6 +178,8 @@ Accéder à la lettre : [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) 
 + [LR : LawRencium](/L/lr.md)
 + [LU : LUtécium](/L/lu.md)
 + [LV : LiVermorium](/L/lv.md)
+
+*Retourner à l'[index](#index)*
 
 --------------------
 
@@ -177,6 +199,8 @@ Accéder à la lettre : [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) 
 + [MST : Maladie Sexuellement Transmissible](/M/mst.md)
 + [MT : MeiTnérium](/M/mt.md)
 
+*Retourner à l'[index](#index)*
+
 --------------------
 
 # N
@@ -195,6 +219,8 @@ Accéder à la lettre : [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) 
 + [NP : NePtunium](/N/np.md)
 + [NYC : New York City](/N/nyc.md)
 
+*Retourner à l'[index](#index)*
+
 --------------------
 
 # O
@@ -204,6 +230,8 @@ Accéder à la lettre : [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) 
 + [ONU : Organisation des Nations Unies](/O/onu.md)
 + [OS : OSmium](/O/os.md)
 + [OVNI : Objet Volant Non Identifié](/O/ovni.md)
+
+*Retourner à l'[index](#index)*
 
 --------------------
 
@@ -222,11 +250,15 @@ Accéder à la lettre : [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) 
 + [PT : PlaTine](/P/pt.md)
 + [PU : PlUtonium](/P/pu.md)
 
+*Retourner à l'[index](#index)*
+
 --------------------
 
 # Q
 
 + [QCM : Questionnaire à Choix Multiples](/Q/qcm.md)
+
+*Retourner à l'[index](#index)*
 
 --------------------
 
@@ -241,6 +273,8 @@ Accéder à la lettre : [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) 
 + [RMN : Résonance Magnétique Nucléaire](R/rmn.md)
 + [RN : RadoN](R/rn.md)
 + [RU : RUthénium](R/ru.md)
+
+*Retourner à l'[index](#index)*
 
 --------------------
 
@@ -262,6 +296,8 @@ Accéder à la lettre : [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) 
 + [SR : StRontium](/S/sr.md)
 + [SSD : Solid-State Drive](/S/ssd.md)
 
+*Retourner à l'[index](#index)*
+
 --------------------
 
 # T
@@ -277,6 +313,8 @@ Accéder à la lettre : [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) 
 + [TS : TenneSse](/T/ts.md)
 + [TVA : Taxe sur la Valeur Ajoutée](/T/tva.md)
 
+*Retourner à l'[index](#index)*
+
 --------------------
 
 # U
@@ -288,12 +326,16 @@ Accéder à la lettre : [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) 
 + [UNESCO : United Nations Educational, Scientific and Cultural Organization](/U/unesco.md)
 + [UV : UltraViolet](/U/uv.md)
 
+*Retourner à l'[index](#index)*
+
 --------------------
 
 # V
 
 + [V : Volt / Vanadium](/V/v.md)
 + [VIH : Virus de l'Immunodéficience Humaine](/V/vih.md)
+
+*Retourner à l'[index](#index)*
 
 --------------------
 
@@ -303,11 +345,15 @@ Accéder à la lettre : [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) 
 + [WIFI : WIreless FIdelity](/W/wifi.md)
 + [WTF : What The Fuck](/W/wtf.md)
 
+*Retourner à l'[index](#index)*
+
 --------------------
 
 # X
 
 + [XE : XÉnon](/X/xe.md)
+
+*Retourner à l'[index](#index)*
 
 --------------------
 
@@ -316,11 +362,15 @@ Accéder à la lettre : [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) 
 + [Y : Yttrium](/Y/y.md)
 + [YB : YtterBium](/Y/yb.md)
 
+*Retourner à l'[index](#index)*
+
 --------------------
 
 # Z
 
 + [ZN : ZiNc](/Z/zn.md)
 + [ZR : ZiRconium](/Z/zr.md)
+
+*Retourner à l'[index](#index)*
 
 --------------------
