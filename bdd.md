@@ -24,3 +24,25 @@
 + [BNHA : Boku No Hīrō Akademia](/B/bnha.md)
 + [BR : BRome](/B/br.md)
 + [BUP : Bulletin de l'Union des Physiciens](/B/bup.md)
+
+--------------------
+
+# C
+
++ [C : Carbone](/C/c.md)
++ [CA : CAlcium](/C/ca.md)
++ [CD : CaDmium](/C/cd.md)
++ [CE : CÃ‰rium](/C/ce.md)
++ [CF : CaliFornium](/C/cf.md)
++ [CIO : ComitÃ© International Olympique / Centre d'Information et d'Orientation](/C/cio.md)
++ [CL : ChLore](/C/cl.md)
++ [CM : CuriuM](/C/cm.md)
++ [CN : CoperNicium](/C/cn.md)
++ [CNRS : Centre National de la Recherche Scientifique](/C/cnrs.md)
++ [CNRTL : Centre National de Ressources Textuelles et Lexicales](/C/cnrtl.md)
++ [CO : CObalt](/C/co.md)
++ [CPP : C++](/C/cpp.md)
++ [CR : ChRome](/C/cr.md)
++ [CS : CÃ©Sium](/C/cs.md)
++ [CSS : Cascading Style Sheets](/C/css.md)
++ [CU : CUivre](/C/cu.md)
