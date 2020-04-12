@@ -67,3 +67,21 @@
 + [EU : EUropium](/E/eu.md)
 
 --------------------
+
+# F
+
++ [F : Fluor](/F/f.md)
++ [FBI : Federal Bureau of Investigation](/F/fbi.md)
++ [FE : FEr](/F/fe.md)
++ [FFB : Fédération Française du Bâtiment / Fédération Française de Bridge / Fédération Française de Billard](/F/ffb.md)
++ [FFBB : Fédération Française de Basket-Ball](/F/ffbb.md)
++ [FFF : Fédération Française de Football](/F/fff.md)
++ [FFH : Fédération Française de Handball / Fédération Française Handisport / Fédération Française de Hockey](/F/ffh.md)
++ [FFR : Fédération Française de Rugby](/F/ffr.md)
++ [FFT : Fédération Française de Tennis / Fédération Française de Tir](/F/fft.md)
++ [FFTT : Fédération Française de Tennis de Table](/F/fftt.md)
++ [FL : FLérovium](/F/fl.md)
++ [FM : FerMium](/F/fm.md)
++ [FR : FRancium](/F/fr.md)
+
+--------------------
