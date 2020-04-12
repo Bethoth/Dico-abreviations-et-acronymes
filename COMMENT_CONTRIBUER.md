@@ -4,6 +4,8 @@
 
 Chaque abréviation ou acronyme (par exemple, 'ONU') doit posséder son propre fichier Markdown. Ce fichier doit se trouver dans le dossier correspondant à la première lettre de l'abréviation ou de l'acronyme.
 
+De plus, le fichier [bdd.md](bdd.md) recense tous les fichiers déjà existants dans le dictionnaire. Avant d'en créer un nouveau, vérifiez qu'il n'existe pas. Il faut également ajouter vos nouveaux fichiers à cette base. Voir ci-dessous pour la méthode.
+
 ## Il est important de respecter les règles de format :
 
 Chaque fichier doit être nommé ainsi : `abréviation.md` (par exemple, pour l'ONU, le fichier s'appelle `onu.md`). De plus, les fichiers eux-mêmes ont une structure bien précise :
@@ -53,6 +55,16 @@ Chaque fichier doit être nommé ainsi : `abréviation.md` (par exemple, pour l'
     ----------------------------------------
 
 *Contenu du fichier `S/sida.md`.*
+
+## Méthode pour les ajouts à la base de données :
+
+Une fois votre nouveau fichier terminé, il faut le recenser dans le fichier [bdd.md](bdd.md). Pour ce faire, il suffit d'aller dans la section de la première lettre de votre fichier et d'ajouter le votre selon la même méthode. Voyons un exemple : vous voulez ajouter le fichier `jfk.md` à la base de donnée.
+
+1. Vous vous rendez dans le fichier.
+2. Vous accédez à la section `#J`.
+3. Vous voyez ceci : ![Capture d'écran](C:/Users/ROMAIN/Desktop/Images/screenJ.png)
+4. Vous déterminez où placer votre entrée, dans l'ordre alphabétique. Ici, "JFK" sera avant "JS".
+5. Vous entrez ceci sur une nouvelle ligne : `+ [JFK : John Fitz Kennedy](/J/jfk.md)`.
 
 ## Pour ceux qui ne voudraient ou ne sauraient pas gérer la création des fichiers :
 
