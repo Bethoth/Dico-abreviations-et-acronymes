@@ -131,3 +131,14 @@
 + [KR : KRypton](/K/kr.md)
 
 --------------------
+
+# L
+
++ [LA : LAnthane](/L/la.md)
++ [LI : LIthium](/L/li.md)
++ [LOL : League Of Legends / Laughing Out Loud](/L/lol.md)
++ [LR : LawRencium](/L/lr.md)
++ [LU : LUtécium](/L/lu.md)
++ [LV : LiVermorium](/L/lv.md)
+
+--------------------
