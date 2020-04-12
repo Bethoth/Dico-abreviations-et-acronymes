@@ -2,7 +2,7 @@
 
 --------------------
 
-## (1) Questionnaire à Choix Multiples
+## (1) Questionnaire � Choix Multiples
 
 **Domaine(s)** : Éducation / Sociologie / Marketing
 
