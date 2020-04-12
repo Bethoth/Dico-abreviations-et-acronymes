@@ -184,3 +184,18 @@
 + [OVNI : Objet Volant Non Identifié](/O/ovni.md)
 
 --------------------
+
+# P
+
++ [P : Phosphore](/P/p.md)
++ [PA : ProtActinium](/P/pa.md)
++ [PB : PlomB](/P/pb.md)
++ [PD : PallaDium](/P/pd.md)
++ [PDG : Président Directeur Général](/P/pdg.md)
++ [PM : ProMéthium](/P/pm.md)
++ [PO : POlonium](/P/po.md)
++ [PR : PRaséodyme](/P/pr.md)
++ [PT : PlaTine](/P/pt.md)
++ [PU : PlUtonium](/P/pu.md)
+
+--------------------
