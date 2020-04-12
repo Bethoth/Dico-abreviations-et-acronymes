@@ -10,4 +10,4 @@
 
 ## (2) Minecraft
 
-**Domaine(s)** : Jeux vidéos
+**Domaine(s)** : Jeu vidéo
