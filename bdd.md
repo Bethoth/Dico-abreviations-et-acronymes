@@ -143,6 +143,7 @@ Accéder à la lettre : [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) 
 
 + [LA : LAnthane](/L/la.md)
 + [LI : LIthium](/L/li.md)
++ [LIFI : Light FIdelity](/L/lifi.md)
 + [LOL : League Of Legends / Laughing Out Loud](/L/lol.md)
 + [LR : LawRencium](/L/lr.md)
 + [LU : LUtécium](/L/lu.md)
