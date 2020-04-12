@@ -12,7 +12,7 @@ Chaque fichier doit être nommé ainsi : `abréviation.md` (par exemple, pour l'
 
     # ABRÉVIATION
 
-    --------------------------------
+    --------------------
 
     ## (1) Forme entière, avec les lettres qui correspondent à l'acronyme en majuscule
 
@@ -28,13 +28,13 @@ Chaque fichier doit être nommé ainsi : `abréviation.md` (par exemple, pour l'
     + Remarque2
     + etc
 
-    ---------------------------------------------------
+    --------------------
 
     ## (2) Forme entière, avec les lettres qui correspondent à l'acronyme en majuscule
 
     .....
 
-    ------------------------------------------------
+    --------------------
 
     etc
 
@@ -42,7 +42,7 @@ Chaque fichier doit être nommé ainsi : `abréviation.md` (par exemple, pour l'
 
     # SIDA
 
-    --------------------------------------
+    --------------------
 
     ## (1) Syndrome d'ImmunoDéficience Acquise
 
@@ -52,7 +52,7 @@ Chaque fichier doit être nommé ainsi : `abréviation.md` (par exemple, pour l'
 
     + [VIH](../V/vih.md) : virus de base
 
-    ----------------------------------------
+    --------------------
 
 *Contenu du fichier `S/sida.md`.*
 
