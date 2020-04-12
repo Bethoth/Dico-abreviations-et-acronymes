@@ -219,3 +219,20 @@
 + [RU : RUthénium](R/ru.md)
 
 --------------------
+
+# S
+
++ [S : Soufre](/S/s.md)
++ [SARL : Société À Responsabilité Limitée](/S/sarl.md)
++ [SB : StiBine](/S/sb.md)
++ [SC : SCandium](/S/sc.md)
++ [SDS : Seven Deadly Sins](/S/sds.md)
++ [SE : SÉlénium](/S/se.md)
++ [SG : SeaborGium](/S/sg.md)
++ [SI : SIlicium](/S/si.md)
++ [SIDA : Syndrome d'ImmunoDéficience Acquise](/S/sida.md)
++ [SM : SaMarium](/S/sm.md)
++ [SN : StaNnum](/S/sn.md)
++ [SR : StRontium](/S/sr.md)
+
+--------------------
