@@ -95,3 +95,15 @@
 + [GIGN : Groupe d'Intervention de la Gendarmerie Nationale](/G/gign.md)
 
 --------------------
+
+# H
+
++ [H : Hydrogène](/H/h.md)
++ [HE : HÉlium](/H/he.md)
++ [HF : HaFnium](/H/hf.md)
++ [HG : HydraGyrum](/H/hg.md)
++ [HO : HOlmium](/H/ho.md)
++ [HS : HaSsium / Hors Service / Hors Sujet](/H/hs.md)
++ [HTML : HyperText Markup Language](/H/html.md)
+
+--------------------
