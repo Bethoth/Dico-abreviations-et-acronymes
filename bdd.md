@@ -107,3 +107,13 @@
 + [HTML : HyperText Markup Language](/H/html.md)
 
 --------------------
+
+# I
+
++ [I : Iode](/I/i.md)
++ [IMC : Indice de Masse Corporelle](/I/imc.md)
++ [IN : INdium](/I/in.md)
++ [IR : IRidium](/I/ir.md)
++ [IST : Infection Sexuellement Transmissible](/I/ist.md)
+
+--------------------
