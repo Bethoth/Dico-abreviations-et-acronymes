@@ -62,7 +62,7 @@ Une fois votre nouveau fichier terminé, il faut le recenser dans le fichier [bd
 
 1. Vous vous rendez dans le fichier.
 2. Vous accédez à la section `#J`.
-3. Vous voyez ceci : ![Capture d'écran](C:/Users/ROMAIN/Desktop/Images/screenJ.png)
+3. Vous voyez ceci : ![Capture d'écran](screenJ.png)
 4. Vous déterminez où placer votre entrée, dans l'ordre alphabétique. Ici, "JFK" sera avant "JS".
 5. Vous entrez ceci sur une nouvelle ligne : `+ [JFK : John Fitz Kennedy](/J/jfk.md)`.
 
