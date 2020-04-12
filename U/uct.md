@@ -6,4 +6,8 @@
 
 **Domaine(s)** : Informatique
 
+**En lien** :
+
++ [CPU](../C/cpu.md) : acronyme anglais
+
 --------------------
