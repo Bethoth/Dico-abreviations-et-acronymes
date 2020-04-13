@@ -68,6 +68,13 @@ Une fois votre nouveau fichier terminé, il faut le recenser dans le fichier [bd
 
 *Note : dans le cas où votre abréviation / acronyme existerait déjà et aurait donc déjà son propre fichier, ajoutez simplement "/ Autre Abréviation".*
 
+## Comment vérifier qu'un fichier existe déjà ou non :
+
+Il y a dans le dossier py un fichier nommé [recherche.py](/py/recherche.py). Celui-ci permet deux choses :
+
++ Rechercher si un fichier existe ou non (en complément du fichier [bdd.md](/bdd.md) qui lui donne les noms entiers allant avec les abréviations) ;
++ Faire une recherche par domaine. Si vous voulez savoir, par exemple, quelles abréviations de manga existent, il est là pour vous aider !
+
 ## Pour ceux qui ne voudraient ou ne sauraient pas gérer la création des fichiers :
 
 Il y a, dans l'onglet 'Projets' un [projet](https://github.com/Bethoth/Dico-abreviations-et-acronymes/projects/1) permettant à chacun d'ajouter toutes les abréviations qu'il souhaite. Pour contribuer ici, je vous demande de donner :
