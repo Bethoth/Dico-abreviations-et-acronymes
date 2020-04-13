@@ -2,7 +2,7 @@
 
 ## Il est important de bien comprendre la structure du projet :
 
-Chaque abréviation ou acronyme (par exemple, 'ONU') doit posséder son propre fichier Markdown. Ce fichier doit se trouver dans le dossier correspondant à la première lettre de l'abréviation ou de l'acronyme.
+Chaque abréviation ou acronyme (par exemple, 'ONU') doit posséder son propre fichier Markdown. Ce fichier doit se trouver dans le dossier correspondant à la première lettre de l'abréviation ou de l'acronyme, dans le dossier `Dico`.
 
 De plus, le fichier [bdd.md](bdd.md) recense tous les fichiers déjà existants dans le dictionnaire. Avant d'en créer un nouveau, vérifiez qu'il n'existe pas. Il faut également ajouter vos nouveaux fichiers à cette base. Voir ci-dessous pour la méthode.
 
