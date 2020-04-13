@@ -332,6 +332,7 @@ Accéder à la lettre : [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) 
 + [UFO : Unidentified Flying Object](/Dico/U/ufo.md)
 + [UNESCO : United Nations Educational, Scientific and Cultural Organization](/Dico/U/unesco.md)
 + [URSS : Union des Républiques Socialistes Soviétiques](/Dico/U/urss.md)
++ [URSSAF : Union de Recouvrement des cotisations de Sécurité Sociale et d'Allocations Familiales](/Dico/U/urssaf.md)
 + [UV : UltraViolet](/Dico/U/uv.md)
 
 *Retourner à l'[index](#index)*
