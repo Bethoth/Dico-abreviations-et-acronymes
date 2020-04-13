@@ -20,7 +20,7 @@ Chaque fichier doit être nommé ainsi : `abréviation.md` (par exemple, pour l'
 
     **En lien** : // Optionnel
 
-    + [abréviation ou acronyme en majuscule](../Lettre/NomDuFichier.md) : description courte du lien
+    + [abréviation ou acronyme en majuscule](../Dico/Lettre/NomDuFichier.md) : description courte du lien
     + etc
 
     **Remarque(s)** : // Optionnel
@@ -50,11 +50,11 @@ Chaque fichier doit être nommé ainsi : `abréviation.md` (par exemple, pour l'
 
     **En lien** :
 
-    + [VIH](../V/vih.md) : virus de base
+    + [VIH](../Dico/V/vih.md) : virus de base
 
     --------------------
 
-*Contenu du fichier `S/sida.md`.*
+*Contenu du fichier `Dico/S/sida.md`.*
 
 ## Méthode pour les ajouts à la base de données :
 
@@ -64,7 +64,7 @@ Une fois votre nouveau fichier terminé, il faut le recenser dans le fichier [bd
 2. Vous accédez à la section `#J`.
 3. Vous voyez ceci : ![Capture d'écran](screenJ.png)
 4. Vous déterminez où placer votre entrée, dans l'ordre alphabétique. Ici, "JFK" sera avant "JS".
-5. Vous entrez ceci sur une nouvelle ligne : `+ [JFK : John Fitz Kennedy](/J/jfk.md)`.
+5. Vous entrez ceci sur une nouvelle ligne : `+ [JFK : John Fitz Kennedy](/Dico/J/jfk.md)`.
 
 *Note : dans le cas où votre abréviation / acronyme existerait déjà et aurait donc déjà son propre fichier, ajoutez simplement "/ Autre Abréviation".*
 
