@@ -25,6 +25,7 @@ Accéder à la lettre : [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) 
 
 + [B : Bore](/B/b.md)
 + [BA : BAryum](/B/ba.md)
++ [BDD : Base De Données](/B/bdd.md)
 + [BE : BEryllium](/B/be.md)
 + [BH : BoHrium](/B/bh.md)
 + [BI : BIsmuth](/B/bi.md)
