@@ -142,6 +142,7 @@ Accéder à la lettre : [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) 
 + [HS : HaSsium / Hors Service / Hors Sujet](/Dico/H/hs.md)
 + [HTML : HyperText Markup Language](/Dico/H/html.md)
 + [HTTP : HyperText Transfer Protocol](/Dico/H/http.md)
++ [HTTPS : HyperText Transfer Protocol Secure](/Dico/H/https.md)
 
 *Retourner à l'[index](#index)*
 
