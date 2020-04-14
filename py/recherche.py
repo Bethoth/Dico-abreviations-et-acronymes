@@ -19,17 +19,6 @@ def clear():
 
 options = ["Verifier qu'un fichier existe", "Faire une recherche par domaine"]
 
-dirs = listdir("C:\\Users\\ROMAIN\\OneDrive\\Projets\\Dico-abreviations-et-acronymes\\Dico")
-
-files_list = []
-for dir_ in dirs:
-    files_list.append(listdir("C:\\Users\\ROMAIN\\OneDrive\\Projets\\Dico-abreviations-et-acronymes\\Dico\\" + dir_))
-
-files = []
-for list_ in files_list:
-    for i in range(len(list_)):
-        files.append(list_[i])
-
 print("Bonjour. Bienvenue dans ce programme.")
 
 restart = "o"
@@ -46,6 +35,17 @@ while restart == "o":
 
     if choix == "1":
         clear()
+
+        dirs = listdir("C:\\Users\\ROMAIN\\OneDrive\\Projets\\Dico-abreviations-et-acronymes\\Dico")
+
+        files_list = []
+        for dir_ in dirs:
+            files_list.append(listdir("C:\\Users\\ROMAIN\\OneDrive\\Projets\\Dico-abreviations-et-acronymes\\Dico\\" + dir_))
+
+        files = []
+        for list_ in files_list:
+            for i in range(len(list_)):
+                files.append(list_[i])
 
         print("Vous avez choisi de " + options[0].lower() + ".\n")
     
@@ -64,6 +64,17 @@ while restart == "o":
 
     if choix == "2":
         clear()
+
+        dirs = listdir("C:\\Users\\ROMAIN\\OneDrive\\Projets\\Dico-abreviations-et-acronymes\\Dico")
+
+        files_list = []
+        for dir_ in dirs:
+            files_list.append(listdir("C:\\Users\\ROMAIN\\OneDrive\\Projets\\Dico-abreviations-et-acronymes\\Dico\\" + dir_))
+
+        files = []
+        for list_ in files_list:
+            for i in range(len(list_)):
+                files.append(list_[i])
 
         print("Vous avez choisi de " + options[1].lower() + ".\n")
 
