@@ -53,10 +53,10 @@ while restart == "o":
 
         searched = input()
 
-        # Crée le chemin à partir de l'abréviation entrée
+        # Cree le chemin a partir de l'abreviation entree
         path = "C:\\Users\\ROMAIN\\OneDrive\\Projets\\Dico-abreviations-et-acronymes\\Dico\\" + searched[0].upper() + "\\" + searched.lower() + ".md"
 
-        # Vérifie que le chemin créé existe dans le dictionnaire
+        # Verifie que le chemin cree existe dans le dictionnaire
         if exists(path):
             print("Le fichier existe !")
         else:
