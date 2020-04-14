@@ -178,6 +178,7 @@ Accéder à la lettre : [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) 
 # L
 
 + [LA : LAnthane](/Dico/L/la.md)
++ [LCL : Le Crédit Lyonnais](/Dico/L/lcl.md)
 + [LI : LIthium](/Dico/L/li.md)
 + [LIFI : Light FIdelity](/Dico/L/lifi.md)
 + [LOL : League Of Legends / Laughing Out Loud](/Dico/L/lol.md)
