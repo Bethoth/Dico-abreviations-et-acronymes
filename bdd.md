@@ -269,6 +269,7 @@ Accéder à la lettre : [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) 
 + [PSG : Paris Saint-Germain](/Dico/P/psg.md)
 + [PT : PlaTine](/Dico/P/pt.md)
 + [PU : PlUtonium](/Dico/P/pu.md)
++ [PVE : Player Versus Environment](/Dico/P/pve.md)
 
 *Retourner à l'[index](#index)*
 
