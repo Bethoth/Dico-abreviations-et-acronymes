@@ -65,6 +65,17 @@ while restart == "o":
     if choix == "2":
         clear()
 
+        dirs = listdir("C:\\Users\\ROMAIN\\OneDrive\\Projets\\Dico-abreviations-et-acronymes\\Dico")
+
+        files_list = []
+        for dir_ in dirs:
+            files_list.append(listdir("C:\\Users\\ROMAIN\\OneDrive\\Projets\\Dico-abreviations-et-acronymes\\Dico\\" + dir_))
+
+        files = []
+        for list_ in files_list:
+            for i in range(len(list_)):
+                files.append(list_[i])
+
         print("Vous avez choisi de " + options[1].lower() + ".\n")
 
         print("Quel domaine souhaitez-vous rechercher ?")
