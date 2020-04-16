@@ -72,7 +72,7 @@ Accéder à la lettre : [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) 
 
 # D
 
-+ [DB : DuBnium / DataBase](/Dico/D/db.md)
++ [DB : DuBnium / DataBase / Dragon Ball](/Dico/D/db.md)
 + [DICO : DICtiOnnaire](/Dico/D/dico.md)
 + [DNB : Diplôme National du Brevet](/Dico/D/dnb.md)
 + [DNL : Discipline Non-Linguistique](/Dico/D/dnl.md)
