@@ -88,7 +88,7 @@ while restart == "o":
         print("Les fichiers suivant matchent avec le domaine que vous avez entre :\n")
 
         for file in matching_files:
-            file = file[77:]
+            file = file[75:]
             print(file, end=" ; ")
 
     print("")
