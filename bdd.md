@@ -153,6 +153,7 @@ Accéder à la lettre : [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) 
 
 + [I : Iode](/Dico/I/i.md)
 + [IA : Intelligence Artificielle](/Dico/I/ia.md)
++ [IEM : Impulsion ÉlectroMagnétique](Dico/I/iem.md)
 + [IMC : Indice de Masse Corporelle](/Dico/I/imc.md)
 + [IN : INdium](/Dico/I/in.md)
 + [IP : Internet Protocol](/Dico/I/ip.md)
