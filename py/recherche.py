@@ -53,6 +53,8 @@ while restart == "o":
         else:
             print("Le fichier n'existe pas.")
 
+        sleep(1)
+
     if choix == "2":
         clear()
 
@@ -91,8 +93,9 @@ while restart == "o":
             file = file[75:]
             print(file, end=" ; ")
 
-    print("")
-    sleep(5)
+        print("\n\nAppuyez sur Entree une fois avoir lu ce que vous vouliez lire.")
+        input()
+    
     clear()
     print("Voulez-vous effectuer une autre action ? (entrez 'o' pour oui et 'n' pour non)")
     restart = input()
