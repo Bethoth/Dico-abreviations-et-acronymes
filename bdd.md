@@ -195,6 +195,7 @@ Accéder à la lettre : [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) 
 
 + [LA : LAnthane](/Dico/L/la.md)
 + [LCL : Le Crédit Lyonnais](/Dico/L/lcl.md)
++ [LFP : Ligue de Football Professionnel](Dico/L/lfp.md)
 + [LI : LIthium](/Dico/L/li.md)
 + [LIFI : Light FIdelity](/Dico/L/lifi.md)
 + [LMAO : Laughing My Ass Off](/Dico/L/lmao.md)
