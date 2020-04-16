@@ -162,6 +162,7 @@ Accéder à la lettre : [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) 
 + [IN : INdium](Dico/I/in.md)
 + [IP : Internet Protocol](Dico/I/ip.md)
 + [IR : IRidium](Dico/I/ir.md)
++ [IRC : Internet Relay Chat](Dico/I/irc.md)
 + [IRL : In Real Life](Dico/I/irl.md)
 + [IST : Infection Sexuellement Transmissible](Dico/I/ist.md)
 
