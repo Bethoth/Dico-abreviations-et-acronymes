@@ -53,6 +53,8 @@ while restart == "o":
         else:
             print("Le fichier n'existe pas.")
 
+        sleep(1)
+
     if choix == "2":
         clear()
 
@@ -85,14 +87,19 @@ while restart == "o":
                 if domain[0][0][i] == searched or domain[0][0][i] == searched + "\n":
                     matching_files.append(domain[1])
 
-        print("Les fichiers suivant matchent avec le domaine que vous avez entre :\n")
+        if len(matching_files) != 0:
+            print("Les fichiers suivant matchent avec le domaine que vous avez entre :\n")
 
-        for file in matching_files:
-            file = file[75:]
-            print(file, end=" ; ")
+            for file in matching_files:
+                file = file[75:]
+                print(file, end=" ; ")
 
-    print("")
-    sleep(5)
+        else:
+            print("Aucun fichier ne matche avec le domaine que vous avez entre.")
+        
+        print("\n\nAppuyez sur Entree une fois avoir lu ce que vous vouliez lire.")
+        input()
+    
     clear()
     print("Voulez-vous effectuer une autre action ? (entrez 'o' pour oui et 'n' pour non)")
     restart = input()
