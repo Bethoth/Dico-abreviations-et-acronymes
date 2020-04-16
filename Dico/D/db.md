@@ -20,11 +20,11 @@ En lien :
 
 ## (3) Dragon Ball
 
-**Domaine(s)** : Manga / Anim?
+**Domaine(s)** : Manga / Animé
 
 **En lien** :
 
-+ [DBZ](dbz.md) : saison post?rieure
-+ [DBS](dbs.md) : saison post?rieure
++ [DBZ](dbz.md) : saison postérieure
++ [DBS](dbs.md) : saison postérieure
 
 --------------------
