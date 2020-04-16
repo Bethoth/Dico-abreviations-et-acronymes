@@ -170,6 +170,7 @@ Accéder à la lettre : [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) 
 + [JCE : Joueur Contre Environnement](/Dico/J/jce.md)
 + [JCJ : Joueur Contre Joueur](/Dico/J/jcj.md)
 + [JFK : John Fitzgerald Kennedy](/Dico/J/jfk.md)
++ [JPP : Jean-Pierre Papin / J'en Peux Plus](Dico/J/jpp.md)
 + [JS : JavaScript](/Dico/J/js.md)
 
 *Retourner à l'[index](#index)*
