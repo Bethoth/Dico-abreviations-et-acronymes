@@ -203,7 +203,7 @@ Accéder à la lettre : [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) 
 # M
 
 + [MC : MosCovium](/Dico/M/mc.md)
-+ [MD : MenDélévium](/Dico/M/md.md)
++ [MD : MenDélévium / MarkDown](/Dico/M/md.md)
 + [MDP : Mot De Passe](/Dico/M/mdp.md)
 + [MDR : Mort De Rire](/Dico/M/mdr.md)
 + [MG : MaGnésium](/Dico/M/mg.md)
