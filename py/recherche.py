@@ -1,6 +1,8 @@
-from os.path import exists, isdir
+from os.path import exists, isdir, join, split
 from os import listdir, system
 from time import sleep
+
+dicoPath = join(split(__file__)[0], "..", "Dico")
 
 def get_domains(filename):
     domains = []
@@ -18,17 +20,6 @@ def clear():
     system("cls")
 
 options = ["Verifier qu'un fichier existe", "Faire une recherche par domaine"]
-
-dirs = listdir("C:\\Users\\ROMAIN\\OneDrive\\Projets\\Dico-abreviations-et-acronymes\\Dico")
-
-files_list = []
-for dir_ in dirs:
-    files_list.append(listdir("C:\\Users\\ROMAIN\\OneDrive\\Projets\\Dico-abreviations-et-acronymes\\Dico\\" + dir_))
-
-files = []
-for list_ in files_list:
-    for i in range(len(list_)):
-        files.append(list_[i])
 
 print("Bonjour. Bienvenue dans ce programme.")
 
@@ -54,7 +45,7 @@ while restart == "o":
         searched = input()
 
         # Cree le chemin a partir de l'abreviation entree
-        path = "C:\\Users\\ROMAIN\\OneDrive\\Projets\\Dico-abreviations-et-acronymes\\Dico\\" + searched[0].upper() + "\\" + searched.lower() + ".md"
+        path = dicoPath + "/" + searched[0].upper() + "/" + searched.lower() + ".md"
 
         # Verifie que le chemin cree existe dans le dictionnaire
         if exists(path):
@@ -65,11 +56,11 @@ while restart == "o":
     if choix == "2":
         clear()
 
-        dirs = listdir("C:\\Users\\ROMAIN\\OneDrive\\Projets\\Dico-abreviations-et-acronymes\\Dico")
+        dirs = listdir(dicoPath)
 
         files_list = []
         for dir_ in dirs:
-            files_list.append(listdir("C:\\Users\\ROMAIN\\OneDrive\\Projets\\Dico-abreviations-et-acronymes\\Dico\\" + dir_))
+            files_list.append(listdir(dicoPath + "/" + dir_))
 
         files = []
         for list_ in files_list:
@@ -82,7 +73,7 @@ while restart == "o":
 
         domains = []
         for file in files:
-            domains.append(get_domains("C:\\Users\\ROMAIN\\OneDrive\\Projets\\Dico-abreviations-et-acronymes\\Dico\\" + file[0].upper() + "\\" + file))
+            domains.append(get_domains(dicoPath + "/" + file[0].upper() + "/" + file))
 
         searched = input()
         searched = searched.capitalize()
@@ -97,7 +88,7 @@ while restart == "o":
         print("Les fichiers suivant matchent avec le domaine que vous avez entre :\n")
 
         for file in matching_files:
-            file = file[71:]
+            file = file[75:]
             print(file, end=" ; ")
 
     print("")
