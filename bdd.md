@@ -172,6 +172,7 @@ Accéder à la lettre : [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) 
 + [JFK : John Fitzgerald Kennedy](/Dico/J/jfk.md)
 + [JPP : Jean-Pierre Papin / J'en Peux Plus](Dico/J/jpp.md)
 + [JS : JavaScript](/Dico/J/js.md)
++ [JSP : Je Sais Pas](Dico/J/jsp.md)
 
 *Retourner à l'[index](#index)*
 
