@@ -22,4 +22,9 @@ En lien :
 
 **Domaine(s)** : Manga / Anim?
 
+**En lien** :
+
++ [DBZ](dbz.md) : saison post?rieure
++ [DBS](dbs.md) : saison post?rieure
+
 --------------------
