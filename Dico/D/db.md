@@ -12,4 +12,8 @@
 
 **Domaine(s)** : Informatique
 
+En lien :
+
++ [BDD](../B/bdd.md) : acronyme français
+
 --------------------
