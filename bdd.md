@@ -80,7 +80,7 @@ Accéder à la lettre : [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) 
 + [DNB : Diplôme National du Brevet](/Dico/D/dnb.md)
 + [DNL : Discipline Non-Linguistique](/Dico/D/dnl.md)
 + [DNS : Domain Name Server](/Dico/D/dns.md)
-+ [DS : DarmStadtium](/Dico/D/ds.md)
++ [DS : DarmStadtium / Devoir Surveillé](/Dico/D/ds.md)
 + [DY : DYsprosium](/Dico/D/dy.md)
 
 *Retourner à l'[index](#index)*
