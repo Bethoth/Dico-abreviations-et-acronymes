@@ -135,6 +135,7 @@ Accéder à la lettre : [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) 
 # H
 
 + [H : Hydrogène](/Dico/H/h.md)
++ [HDF : Hauts-De-France](Dico/H/hdf.md)
 + [HE : HÉlium](/Dico/H/he.md)
 + [HF : HaFnium](/Dico/H/hf.md)
 + [HG : HydraGyrum](/Dico/H/hg.md)
