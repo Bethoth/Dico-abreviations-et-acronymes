@@ -206,6 +206,7 @@ Accéder à la lettre : [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) 
 + [LMAO : Laughing My Ass Off](Dico/L/lmao.md)
 + [LOL : League Of Legends / Laughing Out Loud](Dico/L/lol.md)
 + [LR : LawRencium](Dico/L/lr.md)
++ [LSPD : Los Angeles Police Department](Dico/L/lspd.md)
 + [LU : LUtécium](Dico/L/lu.md)
 + [LV : LiVermorium](Dico/L/lv.md)
 
