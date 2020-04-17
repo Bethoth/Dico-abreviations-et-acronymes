@@ -4,6 +4,20 @@ from time import sleep
 
 dicoPath = join(split(__file__)[0], "..", "Dico")
 
+def get_files():
+    dirs = listdir(dicoPath)
+
+    files_list = []
+    for dir_ in dirs:
+        files_list.append(listdir(dicoPath + "/" + dir_))
+
+    files = []
+    for list_ in files_list:
+        for i in range(len(list_)):
+            files.append(list_[i])
+
+    return files
+
 def get_domains(filename):
     domains = []
     
@@ -38,6 +52,8 @@ while restart == "o":
     if choix == "1":
         clear()
 
+        files = get_files()
+
         print("Vous avez choisi de " + options[0].lower() + ".\n")
     
         print("Quelle est l'abreviation ou acronyme dont vous voulez verifier l'existence ?")
@@ -49,25 +65,16 @@ while restart == "o":
 
         # Verifie que le chemin cree existe dans le dictionnaire
         if exists(path):
-            print("Le fichier existe !")
+            print("Le fichier existe ! (" + str(len(files)) + " fichiers testés)")
         else:
-            print("Le fichier n'existe pas.")
+            print("Le fichier n'existe pas. (" + str(len(files)) + " fichiers testés)")
 
         sleep(1)
 
     if choix == "2":
         clear()
 
-        dirs = listdir(dicoPath)
-
-        files_list = []
-        for dir_ in dirs:
-            files_list.append(listdir(dicoPath + "/" + dir_))
-
-        files = []
-        for list_ in files_list:
-            for i in range(len(list_)):
-                files.append(list_[i])
+        files = get_files()
 
         print("Vous avez choisi de " + options[1].lower() + ".\n")
 
