@@ -6,4 +6,8 @@
 
 **Domaine(s)** : Programmation / Informatique
 
+**En lien** :
+
++ [JS](js.md) : source d'inspiration
+
 --------------------
