@@ -38,6 +38,7 @@ Accéder à la lettre : [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) 
 + [BK : BerKélium](Dico/B/bk.md)
 + [BNHA : Boku No Hīrō Akademia](Dico/B/bnha.md)
 + [BR : BRome](Dico/B/br.md)
++ [BTS : Brevet de Technicien Supérieur](Dico/B/bts.md)
 + [BUP : Bulletin de l'Union des Physiciens](Dico/B/bup.md)
 
 *Retourner à l'[index](#index)*
