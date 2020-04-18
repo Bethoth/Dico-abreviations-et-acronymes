@@ -384,6 +384,7 @@ Accéder à la lettre : [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) 
 + [URSSAF : Union de Recouvrement des cotisations de Sécurité Sociale et d'Allocations Familiales](Dico/U/urssaf.md)
 + [USA : United States of America](Dico/U/usa.md)
 + [UV : UltraViolet](Dico/U/uv.md)
++ [UVC : Unité de Vente Consommateur](Dico/U/uvc.md)
 
 *Retourner à l'[index](#index)*
 
