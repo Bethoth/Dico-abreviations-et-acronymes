@@ -303,6 +303,7 @@ Accéder à la lettre : [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) 
 # Q
 
 + [QCM : Questionnaire à Choix Multiples](Dico/Q/qcm.md)
++ [QG : Quartier Général](Dico/Q/qg.md)
 
 *Retourner à l'[index](#index)*
 
