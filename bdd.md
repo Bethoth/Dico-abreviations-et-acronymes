@@ -207,6 +207,7 @@ Accéder à la lettre : [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) 
 # L
 
 + [LA : LAnthane](Dico/L/la.md)
++ [LCCN : Library of Congress Control Number](Dico/L/lccn.md)
 + [LCL : Le Crédit Lyonnais](Dico/L/lcl.md)
 + [LFP : Ligue de Football Professionnel](Dico/L/lfp.md)
 + [LI : LIthium](Dico/L/li.md)
