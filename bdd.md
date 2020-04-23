@@ -100,6 +100,7 @@ Accéder à la lettre : [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) 
 # E
 
 + [EBE : Excédent Brut d'Exploitation](Dico/E/ebe.md)
++ [EBITDA : Earnings Before Interest, Taxes, Depreciation and Amortization](Dico/E/ebitda.md)
 + [EFL : Éditions Francis Lefebvre / European Football League / English Football League / Enlightenment Foundation Libraries](Dico/E/efl.md)
 + [EMC : Éducation Morale et Civique](Dico/E/emc.md)
 + [ER : ERbium](Dico/E/er.md)
