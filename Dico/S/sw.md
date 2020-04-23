@@ -12,5 +12,6 @@
 + [ATAT](../A/atat.md) : véhicule provenant de cet univers fictif
 + [TRTT](../T/trtt.md) : véhicule provenant de cet univers fictif
 + [ATST](../A/atst.md) : véhicule provenant de cet univers fictif
++ [TIE](../T/tie.md) : vaisseau spatial provenant de cet univers fictif
 
 --------------------
