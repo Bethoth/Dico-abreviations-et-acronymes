@@ -4,6 +4,6 @@
 
 ## (1) Travail Pratique
 
-**Domaine(s)** : Éducation
+**Domaine(s)** : Enseignement
 
 --------------------

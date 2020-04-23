@@ -10,7 +10,7 @@
 
 ## (2) Professeur Principal
 
-**Domaine(s)** : Éducation
+**Domaine(s)** : Enseignement
 
 --------------------
 

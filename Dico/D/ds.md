@@ -10,6 +10,6 @@
 
 ## (2) Devoir Surveillé
 
-**Domaine(s)** : Éducation
+**Domaine(s)** : Enseignement
 
 --------------------

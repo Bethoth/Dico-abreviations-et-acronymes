@@ -4,6 +4,6 @@
 
 ## (1) Discipline Non-Linguistique
 
-**Domaine(s)** : Éducation
+**Domaine(s)** : Enseignement
 
 --------------------

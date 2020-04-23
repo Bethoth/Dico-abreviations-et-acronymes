@@ -4,6 +4,6 @@
 
 ## (1) Diplôme National du Brevet
 
-**Domaine(s)** : Éducation
+**Domaine(s)** : Enseignement / Diplôme
 
 --------------------
