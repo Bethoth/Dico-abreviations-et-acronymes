@@ -398,6 +398,7 @@ Accéder à la lettre : [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) 
 
 + [U : Uranium](Dico/U/u.md)
 + [UA :  Unité Arbitraire](Dico/U/ua.md)
++ [UB : Undefined Behavior](Dico/U/ub.md)
 + [UCT : Unité Centrale de Traitement](Dico/U/uct.md)
 + [UDPPC : Union Des Professeurs de Physique-Chimie](Dico/U/udppc.md)
 + [UEFA : Union of the European Football Associations](Dico/U/uefa.md)
