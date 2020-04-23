@@ -4,6 +4,6 @@
 
 ## (1) Fécondation In Vitro
 
-**Domaine(s)** : Biologie
+**Domaine(s)** : Médecine / Biologie
 
 --------------------
