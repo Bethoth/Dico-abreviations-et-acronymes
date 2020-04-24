@@ -189,6 +189,7 @@ Accéder à la lettre : [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) 
 + [IRC : Internet Relay Chat](Dico/I/irc.md)
 + [IRL : In Real Life](Dico/I/irl.md)
 + [ISBN : International Standard Book Number](Dico/I/isbn.md)
++ [ISO : International Organization for Standardization](Dico/I/iso.md)
 + [IST : Infection Sexuellement Transmissible](Dico/I/ist.md)
 
 *Retourner à l'[index](#index)*
