@@ -376,6 +376,7 @@ Accéder à la lettre : [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) 
 + [SSD : Solid-State Drive](Dico/S/ssd.md)
 + [SSH : Secure SHell](Dico/S/ssh.md)
 + [SSL : Secure Sockets Layer](Dico/S/ssl.md)
++ [STL : Standard Template Library](Dico/S/stl.md)
 + [SW : Star Wars](Dico/S/sw.md)
 
 *Retourner à l'[index](#index)*
