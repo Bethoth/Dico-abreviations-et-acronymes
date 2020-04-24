@@ -191,6 +191,7 @@ Accéder à la lettre : [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) 
 
 + [I : Iode](Dico/I/i.md)
 + [IA : Intelligence Artificielle](Dico/I/ia.md)
++ [IBN : Institut Belge de Normalisation](Dico/I/ibn.md)
 + [IDH : Indice de Développement Humain](Dico/I/idh.md)
 + [IEEE : Institute of Electrical and Electronics Engineers](Dico/I/ieee.md)
 + [IEM : Impulsion ÉlectroMagnétique](Dico/I/iem.md)
