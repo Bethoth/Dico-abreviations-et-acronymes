@@ -6,4 +6,8 @@
 
 **Domaine(s)** : Chimie / Institut
 
+**En lien** :
+
++ [IUPAC](../I/iupac.md) : acronyme anglais
+
 --------------------
