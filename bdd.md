@@ -313,7 +313,7 @@ Accéder à la lettre : [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) 
 + [OM : Olympique de Marseille](Dico/O/om.md)
 + [OMS : Organisation Mondiale de la Santé](Dico/O/oms.md)
 + [ONU : Organisation des Nations Unies](Dico/O/onu.md)
-+ [OS : OSmium](Dico/O/os.md)
++ [OS : OSmium / Operating System](Dico/O/os.md)
 + [OVNI : Objet Volant Non Identifié](Dico/O/ovni.md)
 
 *Retourner à l'[index](#index)*
