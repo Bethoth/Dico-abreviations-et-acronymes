@@ -408,6 +408,7 @@ Accéder à la lettre : [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) 
 
 + [TA : TAntale](Dico/T/ta.md)
 + [TB : TerBium](Dico/T/tb.md)
++ [TBH : To Be Honest](Dico/T/tbh.md)
 + [TBTT : Transport Blindé Tout Terrain](Dico/T/tbtt.md)
 + [TC : TeChnétium](Dico/T/tc.md)
 + [TCP : Transmission Control Protocol](Dico/T/tcp.md)
