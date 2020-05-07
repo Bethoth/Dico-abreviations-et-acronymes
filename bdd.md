@@ -401,6 +401,7 @@ Accéder à la lettre : [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) 
 + [SSH : Secure SHell](Dico/S/ssh.md)
 + [SSL : Secure Sockets Layer](Dico/S/ssl.md)
 + [STL : Standard Template Library](Dico/S/stl.md)
++ [SVT : Sciences de la Vie et de la Terre](Dico/S/svt.md)
 + [SW : Star Wars](Dico/S/sw.md)
 
 *Retourner à l'[index](#index)*
