@@ -373,6 +373,7 @@ Accéder à la lettre : [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) 
 + [RMN : Résonance Magnétique Nucléaire](Dico/R/rmn.md)
 + [RN : RadoN](Dico/R/rn.md)
 + [RNIS : Réseau Numérique à Intégration de Services](Dico/R/rnis.md)
++ [ROTJ : the Return Of The Jedi](Dico/R/rotj.md)
 + [RPG : Role Playing Game](Dico/R/rpg.md)
 + [RU : RUthénium](Dico/R/ru.md)
 
