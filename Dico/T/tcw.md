@@ -6,4 +6,8 @@
 
 **Domaine(s)** : Dessin animé
 
+**En lien** :
+
++ [SW](../S/sw.md) : univers fictif de provenance
+
 --------------------
