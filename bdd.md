@@ -6,6 +6,7 @@ Accéder à la lettre : [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) 
 
 + [A : Ampère](Dico/A/a.md)
 + [AAAAA : Association Amicale des Amateurs d'Andouillette Authentique](Dico/A/aaaaa.md)
++ [AAT : Armoured Assault Tank](Dico/A/aat.md)
 + [AC : ACtinium / Assassin's Creed](Dico/A/ac.md)
 + [ADN : Acide DésoxyriboNucléique / Anime Digital Network](Dico/A/adn.md)
 + [ADSL : Asymmetric Digital Subscriber Line](Dico/A/adsl.md)
