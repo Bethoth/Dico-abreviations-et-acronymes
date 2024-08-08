@@ -114,6 +114,7 @@ Accéder à la lettre : [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) 
 
 # D
 
++ [DA : Développement Asymptotique / Direction Artistique](Dico/D/da.md)
 + [DB : DuBnium / DataBase / Dragon Ball](Dico/D/db.md)
 + [DBS : Dragon Ball Super](Dico/D/dbs.md)
 + [DBZ : Dragon Ball Z](Dico/D/dbz.md)
