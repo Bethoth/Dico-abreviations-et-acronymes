@@ -414,6 +414,7 @@ Accéder à la lettre : [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) 
 + [STL : Standard Template Library](Dico/S/stl.md)
 + [SVT : Sciences de la Vie et de la Terre](Dico/S/svt.md)
 + [SW : Star Wars](Dico/S/sw.md)
++ [SWTOR : Star Wars The Old Republic](Dico/S/swtor.md)
 
 *Retourner à l'[index](#index)*
 
