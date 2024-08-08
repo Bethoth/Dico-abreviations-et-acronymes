@@ -136,7 +136,7 @@ Accéder à la lettre : [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) 
 + [ER : ERbium / Emergency Room](Dico/E/er.md)
 + [ES : EinSteinium](Dico/E/es.md)
 + [ESB : the Empire Strikes Back](Dico/E/esb.md)
-+ [EU : EUropium](Dico/E/eu.md)
++ [EU : EUropium / European Union](Dico/E/eu.md)
 
 *Retourner à l'[index](#index)*
 
