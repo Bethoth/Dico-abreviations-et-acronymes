@@ -4,6 +4,10 @@
 
 **Domaine(s)** : Informatique
 
+**En lien** :
+
++ [GPU](../G/gpu.md) : acronyme anglais
+
 ## (2) Capital Games
 
 **Domaine(s)** : Entreprise / Jeux vidéo
