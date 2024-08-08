@@ -10,3 +10,4 @@
 + [MP](../M/mp.md) : filière
 + [MPII](../M/mpii.md) : filière
 + [MPI](../M/mpi.md) : filière
++ [PCSI](../P/pcsi.md) : filière
