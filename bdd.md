@@ -468,6 +468,7 @@ Accéder à la lettre : [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) 
 + [TROS : The Rise Of Skywalker](Dico/T/tros.md)
 + [TRTT : Transport de Reconnaissance Tout Terrain](Dico/T/trtt.md)
 + [TS : TenneSse / TypeScript](Dico/T/ts.md)
++ [TSI : Technologie et Sciences de l'Ingénieur](Dico/T/tsi.md)
 + [TUC : Temps Universel Coordonné](Dico/T/tuc.md)
 + [TVA : Taxe sur la Valeur Ajoutée](Dico/T/tva.md)
 
