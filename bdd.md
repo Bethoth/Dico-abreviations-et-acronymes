@@ -546,6 +546,7 @@ Accéder à la lettre : [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) 
 
 + [Y : Yttrium](Dico/Y/y.md)
 + [YB : YtterBium](Dico/Y/yb.md)
++ [YT : YouTube](Dico/Y/yt.md)
 
 *Retourner à l'[index](#index)*
 
