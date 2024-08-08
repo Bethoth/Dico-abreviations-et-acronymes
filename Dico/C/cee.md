@@ -7,3 +7,4 @@
 **En lien** :
 
 + [UE](../U/ue.md) : organisation qui a remplacé la Communauté Économique Européenne
++ [EEC](../E/eec.md) : acronyme anglais
