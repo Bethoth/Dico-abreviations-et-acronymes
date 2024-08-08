@@ -295,6 +295,7 @@ Accéder à la lettre : [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) 
 + [MO : MOlybdène](Dico/M/mo.md)
 + [MOOC : Massive Open Online Course](Dico/M/mooc.md)
 + [MP : Message Privé](Dico/M/mp.md)
++ [MPSI : Mathématiques, Physique et Sciences de l'Ingénieur](Dico/M/mpsi.md)
 + [MST : Maladie Sexuellement Transmissible](Dico/M/mst.md)
 + [MT : MeiTnérium](Dico/M/mt.md)
 
