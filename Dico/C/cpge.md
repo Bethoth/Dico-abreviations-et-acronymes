@@ -12,3 +12,4 @@
 + [MPI](../M/mpi.md) : filière
 + [PCSI](../P/pcsi.md) : filière
 + [PC](../P/pc.md) : filière
++ [PSI](../P/psi.md) : filière
