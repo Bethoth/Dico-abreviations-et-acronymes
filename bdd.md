@@ -256,6 +256,7 @@ Accéder à la lettre : [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) 
 # K
 
 + [K : Kalium](Dico/K/k.md)
++ [KH : KHâgne](Dico/K/kh.md)
 + [KKK : Ku Klux Klan](Dico/K/kkk.md)
 + [KR : KRypton](Dico/K/kr.md)
 
