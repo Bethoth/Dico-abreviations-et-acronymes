@@ -12,6 +12,10 @@
 
 **Domaine(s)** : Sport
 
+**En lien** :
+
++ [CSC](../C/csc.md) : acronyme français
+
 ## (4) Observatoire de Genève
 
 **Domaine(s)** : Astronomie
