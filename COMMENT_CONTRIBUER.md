@@ -12,8 +12,6 @@ Chaque fichier doit être nommé ainsi : `abréviation.md` (par exemple, pour l'
 
     # ABRÉVIATION
 
-    --------------------
-
     ## (1) Forme entière, avec les lettres qui correspondent à l'acronyme en majuscule
 
     **Domaine(s)** : Domaine1 / Domaine2 / etc
@@ -28,21 +26,15 @@ Chaque fichier doit être nommé ainsi : `abréviation.md` (par exemple, pour l'
     + Remarque2
     + etc
 
-    --------------------
-
     ## (2) Forme entière, avec les lettres qui correspondent à l'acronyme en majuscule
 
     .....
-
-    --------------------
 
     etc
 
 ## Exemple :
 
     # SIDA
-
-    --------------------
 
     ## (1) Syndrome d'ImmunoDéficience Acquise
 
@@ -52,7 +44,6 @@ Chaque fichier doit être nommé ainsi : `abréviation.md` (par exemple, pour l'
 
     + [VIH](../Dico/V/vih.md) : virus de base
 
-    --------------------
 
 *Contenu du fichier `Dico/S/sida.md`.*
 
