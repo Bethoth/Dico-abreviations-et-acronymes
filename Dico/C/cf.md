@@ -1,12 +1,8 @@
 # CF
 
---------------------
-
 ## (1) CaliFornium
 
 **Domaine(s)** : Chimie
-
---------------------
 
 ## (2) ConFer
 

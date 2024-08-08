@@ -1,7 +1,5 @@
 # DBS
 
---------------------
-
 ## (1) Dragon Ball Super
 
 **Domaine(s)** : Manga / Animé
@@ -10,5 +8,3 @@
 
 + [DB](db.md) : saison antérieure
 + [DBZ](dbz.md) : saison antérieure
-
---------------------

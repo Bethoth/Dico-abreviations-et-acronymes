@@ -1,7 +1,5 @@
 # SW
 
---------------------
-
 ## (1) Star Wars
 
 **Domaine(s)** : Cinéma
@@ -23,5 +21,3 @@
 + [TLJ](../T/tlj.md) : huitième épisode de la saga Skywalker (acronyme anglais)
 + [TROS](../T/tros.md) : neuvième épisode de la saga Skywalker (acronyme anglais)
 + [TCW](../T/tcw.md) : série d'animation provenant de cet univers fictif
-
---------------------

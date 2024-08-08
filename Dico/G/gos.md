@@ -1,7 +1,5 @@
 # GOS
 
---------------------
-
 ## (1) Gross Operating Surplus
 
 **Domaine(s)** : Entreprise / Économie
@@ -10,5 +8,3 @@
 
 + [EBE](../E/ebe.md) : acronyme français correspondant
 + [EBITDA](../E/ebitda.md) : acronyme équivalent
-
---------------------

@@ -1,15 +1,9 @@
 # CE
 
---------------------
-
 ## (1) CÉrium
 
 **Domaine(s)** : Chimie
 
---------------------
-
-## (2) Comit� d'Entreprise
+## (2) Comité d'Entreprise
 
 **Domaine(s)** : Entreprise
-
---------------------
