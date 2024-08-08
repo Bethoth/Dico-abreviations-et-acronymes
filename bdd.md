@@ -335,7 +335,7 @@ Accéder à la lettre : [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) 
 # O
 
 + [O : Oxygène](Dico/O/o.md)
-+ [OG : OGanesson](Dico/O/og.md)
++ [OG : OGanesson / Original Gangster / Own Goal / Observatoire de Genève](Dico/O/og.md)
 + [OL : Olympique Lyonnais](Dico/O/ol.md)
 + [OM : Olympique de Marseille](Dico/O/om.md)
 + [OMS : Organisation Mondiale de la Santé](Dico/O/oms.md)
