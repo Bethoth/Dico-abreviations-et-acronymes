@@ -7,3 +7,7 @@
 ## (2) Ressources Humaines
 
 **Domaine(s)** : Entreprise
+
+**En lien** :
+
++ [HR](../H/hr.md) : acronyme anglais
