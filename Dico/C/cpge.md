@@ -18,3 +18,4 @@
 + [PTSI](../P/ptsi.md) : filière
 + [PT](../P/pt.md) : filière
 + [TSI](../T/tsi.md) : filière
++ [HK](../H/hk.md) : filière
